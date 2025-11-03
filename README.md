@@ -33,7 +33,7 @@ https://github.com/VisDrone/VisDrone-Dataset
 - Batch Size: 12
 - Total Epochs: 100
 - Image Size: 640×640
-For complete training configuration and implementation details, please refer to the train.py
+## For complete training configuration and implementation details, please refer to the train.py
 
 # Ablation Study
 <div align="center">
