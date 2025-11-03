@@ -6,17 +6,17 @@ MASF-YOLO is an enhanced object detection network based on YOLOv11, specifically
 </div>
 
 # Contributions
-**Multi-scale Feature Aggregation Module (MFAM)**
+## Multi-scale Feature Aggregation Module (MFAM)
 <div align="center">
 <img width="664" height="471" alt="image" src="https://github.com/user-attachments/assets/cd736e9d-cde7-4ba7-ae54-d8520eb3bfa2" />
 </div>
 
-**Improved Efficient Multi-scale Attention(IEMA)**
+## Improved Efficient Multi-scale Attention(IEMA)
 <div align="center">
 <img width="1487" height="1282" alt="图片1" src="https://github.com/user-attachments/assets/03ed409b-c769-460a-8b4a-ff01bd874c08" />
 </div>
 
-**Dimension-Aware Selective Integration Module(DASI)**
+## Dimension-Aware Selective Integration Module(DASI)
 <div align="center">
 <img width="1504" height="589" alt="图片2" src="https://github.com/user-attachments/assets/b94a611a-4a52-4817-8c5c-7f491a8d0d24" />
 </div>
