@@ -25,14 +25,14 @@ MASF-YOLO is an enhanced object detection network based on YOLOv11, specifically
 https://github.com/VisDrone/VisDrone-Dataset
 
 # Environment
--CUDA Version: 11.3
--GPU: NVIDIA GeForce RTX 4090D 24G
+- CUDA Version: 11.3
+- GPU: NVIDIA GeForce RTX 4090D 24G
 
 # Training configuration
--Optimizer: SGD
--Batch Size: 12
--Total Epochs: 100
--Image Size: 640×640
+- Optimizer: SGD
+- Batch Size: 12
+- Total Epochs: 100
+- Image Size: 640×640
 For complete training configuration and implementation details, please refer to the train.py
 
 # Ablation Study
